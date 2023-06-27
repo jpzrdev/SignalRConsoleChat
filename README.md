@@ -16,9 +16,11 @@ Este é um projeto de exemplo que demonstra a comunicação em tempo real entre 
 ### API SignalR
 
 1. Navegue até o diretório `ApiSignalR`, restaure as dependencias e execute o projeto:
-
+ 
+```
 dotnet restore
 dotnet run
+```
 
 2. Realize as mesmas etapas para o `ConsoleA` e `ConsoleB`.
 
