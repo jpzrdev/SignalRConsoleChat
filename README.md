@@ -10,7 +10,6 @@ Este é um projeto de exemplo que demonstra a comunicação em tempo real entre 
 ## Pré-requisitos
 
 - .NET Core SDK
-- Node.js
 
 ## Executando a aplicação
 
